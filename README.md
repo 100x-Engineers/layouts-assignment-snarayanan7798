@@ -22,3 +22,8 @@ Figma Design - https://www.figma.com/file/w7wN1934wsRWZAMhPU0IEX/100x-microblogg
 Designs will be reviewed for visual appeal, layout sensibility, and responsive design principles.
 
 ---
+## Links
+
+Login: https://snarayanan7798.github.io/layouts-assignment-snarayanan7798/src/login/
+Home: https://snarayanan7798.github.io/layouts-assignment-snarayanan7798/src/home/
+Profile: https://snarayanan7798.github.io/layouts-assignment-snarayanan7798/src/profile/
