@@ -24,8 +24,8 @@ Designs will be reviewed for visual appeal, layout sensibility, and responsive d
 ---
 ## Links
 
-Login: https://snarayanan7798.github.io/layouts-assignment-snarayanan7798/src/login/
+Login: https://100x-engineers.github.io/layouts-assignment-snarayanan7798/src/login/
 
-Home: https://snarayanan7798.github.io/layouts-assignment-snarayanan7798/src/home/
+Home: https://100x-engineers.github.io/layouts-assignment-snarayanan7798/src/home/
 
-Profile: https://snarayanan7798.github.io/layouts-assignment-snarayanan7798/src/profile/
+Profile: https://100x-engineers.github.io/layouts-assignment-snarayanan7798/src/profile/
